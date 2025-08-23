@@ -8,10 +8,10 @@ Abaixo os links pra visualizar todos os sites que criei enquanto praticava! Quan
 Desafios:
 
 Exercícios:
-<a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex002/index.html" target="_blank" rel="next">Exercício 002</a>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex003/index.html" target="_blank" rel="next">Exercício 003</a>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex004/index.html" target="_blank" rel="next">Exercício 004</a>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a></p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex002/index.html" target="_blank" rel="next">Exercício 002</a></p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex003/index.html" target="_blank" rel="next">Exercício 003</a></p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex004/index.html" target="_blank" rel="next">Exercício 004</a></p>
 <a href="https://wallissondev.github.io/html-css/exercicios/ex006/index.html" target="_blank" rel="next">Exercício 006</a>
 <a href="https://wallissondev.github.io/html-css/exercicios/ex007/index.html" target="_blank" rel="next">Exercício 007</a>
 <a href="https://wallissondev.github.io/html-css/exercicios/ex008/index.html" target="_blank" rel="next">Exercício 008</a>
