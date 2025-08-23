@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+        a {
+            color:  rgb(30, 255, 0);
+            text-decoration: none;
+        }
+
+        a:visited {
+            color: red;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        a:active { 
+            color: rgb(0, 53, 60);
+        }
+        a::after{
+            content: ' [link]';
+            text-decoration: none;
+            font-weight: normal;
+            color: rgb(0, 42, 255)
+        }
+        a::before{
+            content: '=> ';
+            color:rgb(0, 0, 255)
+        }
+        .especial::after{
+            content: ' GIT DEV';
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://gustavoguanabara.github.io/" target="_blank" rel="external" class="especial">Repositório GitHub</a></li>
+        <li><a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank" rel="external">Canal do Youtube</a></li>
+        <li><a href="https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/aulas/modulo-2-2/modulos/capitulo-15-aula-04-pseudo-elementos-em-css/" taget="_blank" rel="external">Site do CursoEmVídeo</a></li>
+    </ul>
+</body>
+</html>

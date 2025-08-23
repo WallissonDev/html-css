@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    text-align: justify;
+    background-image: linear-gradient(to right,#008F8C, #023535)
+}
+main {
+    background-color: white; /* A cor do fundo da caixa */
+    border-radius: 10px; /* É o quanto a bordinha fica arredondada*/
+    box-shadow: 5px 5px 21px #0FC2C0; /* É a sombra da caixa */
+    width: 650px; /* O tamanho da caixa */
+    padding: 10px; /* É tipo a folguinha do espaço entre letras e borda*/
+    margin: auto; /* É pra centralizar a caixa */
+}
+h1 {
+    color: #0CABA8;
+    text-align: center;
+    text-shadow: 2px 3px 2px #032424; /* Ordem: direita, baixo, espalhaamento, cor */
+}
+h2 {
+    color: #008F8C
+}
+p {
+    color: rgb(0, 0, 0)
+}

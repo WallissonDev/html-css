@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio007</title>
+</head>
+<body>
+    <h1>Imagem Flexível</h1>
+    <p>Você está vevndo uma imagem completa? tente dar zoom ou retirar pra ver ela de outra maneira!</p>
+    <picture>
+        <source media="(max-width: 800px)" srcset="imagens/horizonte-p.jpg">
+        <source media="(max-width: 1200px)" srcset="imagens/horizonte-m.jpg">
+        <source media="(max-width: 1400px)" srcset="imagens/horizonte-g.jpg">
+        <img src="imagens/horizonte-main.jpg" alt="HorizonteCompleto">
+    </picture>
+</body>
+</html>

@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Nata+Sans:wght@100..900&family=Tektur:wdth,wght@75,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    text-align: justify;
+    background-image: linear-gradient(to right, #4D01EB,#00243C, #003ACE);
+}    
+div#mainheader{
+    height: 60px;
+    width: auto;
+    margin: auto;
+    padding: auto;
+}
+div#box1{
+    height: 145px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #c0adff;
+    background-image: linear-gradient(to top, #15143C,#2c2742,#463f55);
+}
+
+.titulos{
+    font: bolder 55px "Tektur", serif;
+    text-align: center;
+    color: white;
+    height: auto;
+    margin: 5px 5px 5px 5px;
+}
+
+h2{
+    font: bold 19px "Tektur", serif;
+    font-weight: 800;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+}
+    
+main {
+    background-color: rgb(255, 255, 255); /* A cor do fundo da caixa */
+    border-radius: 10px; /* É o quanto a bordinha fica arredondada*/
+    box-shadow: 5px 5px 15px #c0adff; /* É a sombra da caixa */
+    width: 1300px; /* O tamanho da caixa */
+    height: 400px;
+    padding: 8px; /* É tipo a folguinha do espaço entre letras e borda*/
+    margin: auto; /* É pra centralizar a caixa */
+
+}
+.mainsub{
+    text-align: center;
+    font: bold 19px "Tektur", serif;
+    color: white
+}
+
+.menu{
+    text-align: center;
+    font: bold 18px "Tektur", serif;
+    color: rgb(255, 255, 255);
+}
+p#conteudo{
+    font: normal 16px "Nata Sans", serif;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #bd72ff;
+    font-size: 19px;
+    text-decoration: underline;
+
+}
+a:active {
+    color: #a742ff;
+}

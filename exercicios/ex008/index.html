@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Formatação de Textos</title>
+    <!-- Essa é a forma correta de mudar as cores --><style> 
+        mark {
+            background-color: royalblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Principais formatações</h1>
+    <h2>Negrito</h2>
+    <p>Nessa frase temos um <b>termo em negrito</b> com a tag&lt;b&gt. Porém está fora da semantica! é uma forma!</p> 
+    <p>Nesta frase, tenho um <strong>Termo em destaque</strong>, utilizando &lt;strong&gt;. Está correto em Semântico!</p>
+    <h2>Itálico / Ênfase</h2>
+    <p>Nesta frase, temos um <i>termo em itálico</i> usando a tag &lt;i&gt;. Porém está fora da semantica! é uma forma!</p>
+    <P>Nesta frase, <em>temos um termo em ênfase</em> usando a tag &lt;em&gt;. Correto na semantica!</P>
+    <h2>Texto Marcado</h2>
+    <p>Nesta frase, temos um <!-- Essa é a forma errada de mudar as cores --><mark style = "background-color: rgb(191, 168, 191);">termo marcado</mark> usando a tag &lt;mark&gt;. Correto na semantica!</p>
+    <p>E no outro parágrafo, temos <mark> outro texto marcado</mark> no final.</p>
+    <h2>Texto grande e pequeno</h2>
+    <p>Estamos criando um <big>texto grande</big> e um <small>texto pequeno</small> nesse parágrafo. Utilizando &lt;big&gt; e &lt;small&gt;</p>. Big é obsoleto! <!-- Big é obsoleto, pois devemos mudar o tamanho da letra pelo CSS, porém SMALL não é obsoleto, pois existem, por exemplo, contratos onde o sentido diz, leia as letras pequenas. -->
+    <h2>Texto deletado</h2>
+    <p>Podemos <del>marcar um texto</del> como excluído para indicar que ele deve ser lido, mas não considerado. Utilizando &lt;del&gt;</p>
+    <h2>Texto inserido</h2>
+    <p>Podemos <ins>marcar um texto</ins> como inserido para dar uma ênfase e indicar que ele foi adicionado depois. Utilizando &lt;ins&gt;</p>.
+    <p>Existe também o <u>sublinhado</u> com a tag &lt;u&gt;.</p>
+    <h2>Texto Sobrescrito</h2>
+    <p>Para inserir coisas do tipo x<sup>20</sup>+3. Utilizamos &lt;sup&gt;</p>
+    <h2>Texto subscrito</h2>
+    <p>Para inserir coisas do tipo H<sub>2</sub>0. Utilizamos &lt;sub&gt;</p>
+</body>
+</html>
