@@ -39,4 +39,11 @@ Exercícios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank" rel="next">Exercício 019</a></p>
 <p>Exercício 20 - <a href="https://wallissondev.github.io/html-css/exercicios/ex020/hover.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex020/links.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex020/pseudoclass.html" target="_blank" rel="next">Parte 3</a></p>
 <p>Exercício 21 - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" rel="next">Parte 3</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo001.html">Exercício 22</a> - Capítulo 19 Aula 02 – Colocando uma imagem de fundo no seu site. (Tipos de Fundo)</p>
+<p>
+Exercício 22 - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo001.html">Parte 1</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo002.html">Parte 2</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo003.html">Parte 3</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo004.html">Parte 4</a> - 
+Colocando uma imagem de fundo no seu site. 
+</p>
