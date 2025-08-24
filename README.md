@@ -45,5 +45,6 @@ Exercício 22 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo002.html">Parte 2</a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo003.html">Parte 3</a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo004.html">Parte 4</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo005.html">Parte 5</a> -
 Colocando uma imagem de fundo no seu site. 
 </p>
