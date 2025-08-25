@@ -22,7 +22,7 @@ Desafios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio008/index.html" target="_blank" rel="next">Desafio 008</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio009/index.html" target="_blank" rel="next">Desafio 009</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio010/index.html" target="_blank" rel="next">Desafio 010</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/projeto-cordel-moderno/cordel.html" target="_blank" rel="next">Desafio 11</a> - Aplicando fundo com efeito parallax</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/projeto-cordel-moderno/cordel.html" target="_blank" rel="next">Desafio 011</a> - Aplicando fundo com efeito parallax</p>
 <hr>
 Exercícios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a></p>
