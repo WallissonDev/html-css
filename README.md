@@ -5,8 +5,12 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 Importante ressaltar que meus projetos maiores com a aplicação de tudo que estou aprendendo, estão em diferentes repositórios, aqui é onde documento o que estou aprendendo de maneira isolada e os meus exercícios durante esse percurso.
 
-Abaixo os links pra visualizar todos os sites que criei enquanto praticava! Quanto mais abaixo, maior o número de conceitos que aprendi! Sendo exercícios a pratica isolada dos conceitos enquanto os desafios contém um aproveitamento melhor de tudo que aprendi de maneira unida. 
+Acesse meus repositórios de cada projeto:
 
+<p>Projeto Site Android: <a href="https://github.com/WallissonDev/projeto-android">Clique Aqui!</a></p>
+
+Abaixo os links pra visualizar todos os sites que criei enquanto praticava! Quanto mais abaixo, maior o número de conceitos que aprendi! Sendo exercícios a pratica isolada dos conceitos enquanto os desafios contém um aproveitamento melhor de tudo que aprendi de maneira unida. 
+<hr>
 Desafios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio001/index.html" target="_blank" rel="next">Desafio 001</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio002/index.html" target="_blank" rel="next">Desafio 002</a></p>
@@ -18,7 +22,7 @@ Desafios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio008/index.html" target="_blank" rel="next">Desafio 008</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio009/index.html" target="_blank" rel="next">Desafio 009</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio010/index.html" target="_blank" rel="next">Desafio 010</a></p>
-
+<hr>
 Exercícios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/ex002/index.html" target="_blank" rel="next">Exercício 002</a></p>
@@ -74,5 +78,6 @@ Exercício 22 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo003.html">Parte 3</a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo004.html">Parte 4</a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo005.html">Parte 5</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo006.html">Parte 6</a> - 
 Colocando uma imagem de fundo no seu site. 
 </p>
