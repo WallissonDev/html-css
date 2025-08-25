@@ -22,6 +22,7 @@ Desafios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio008/index.html" target="_blank" rel="next">Desafio 008</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio009/index.html" target="_blank" rel="next">Desafio 009</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio010/index.html" target="_blank" rel="next">Desafio 010</a></p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/projeto-cordel-moderno/cordel.html" target="_blank" rel="next">Desafio 11</a> - Aplicando fundo com efeito parallax</p>
 <hr>
 Exercícios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a></p>
@@ -70,8 +71,8 @@ Exercício 20 -
 </p>
 
 <p>Exercício 21 - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" rel="next">Parte 3</a></p>
-<p>
 
+<p>
 Exercício 22 - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo001.html">Parte 1</a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo002.html">Parte 2</a> - 
@@ -81,3 +82,7 @@ Exercício 22 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo006.html">Parte 6</a> - 
 Colocando uma imagem de fundo no seu site. 
 </p>
+
+<p>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo007.html"> Exercício 22-B</a> - Alinhamento Vertical</a>
+</p> 
