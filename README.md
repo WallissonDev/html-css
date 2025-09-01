@@ -10,8 +10,13 @@ Acesse meus repositórios de cada projeto:
 <p>
 Projeto Site Android: <a href="https://github.com/WallissonDev/projeto-android" target="_blank" rel="next">Clique Aqui!</a>
 </p>
+
 <p>
-Projeto Site Cordel Moderno <a href="https://github.com/WallissonDev/projeto-cordel-moderno" target="next" rel="next">
+Projeto Site Cordel Moderno: <a href="https://github.com/WallissonDev/projeto-cordel-moderno" target="_blank" rel="next"> Clique Aqui! </a>
+</p>
+
+<p>
+Projeto Pessoal Portifólio: <a href="https://github.com/WallissonDev/projeto-portifolio-simples" target="_blank" rel="next"> Clique Aqui! </a>
 </p>
 
 Abaixo os links pra visualizar todos os sites que criei enquanto praticava! Quanto mais abaixo, maior o número de conceitos que aprendi! Sendo exercícios a pratica isolada dos conceitos enquanto os desafios contém um aproveitamento melhor de tudo que aprendi de maneira unida. 
@@ -79,15 +84,19 @@ Exercício 20 -
 
 <p>
 Exercício 22 - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo001.html">Parte 1</a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo002.html">Parte 2</a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo003.html">Parte 3</a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo004.html">Parte 4</a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo005.html">Parte 5</a> -
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo006.html">Parte 6</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo001.html" target= "_blank" rel="external">Parte 1</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo002.html" target= "_blank" rel="external">Parte 2</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo003.html" target= "_blank" rel="external">Parte 3</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo004.html" target= "_blank" rel="external">Parte 4</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo005.html" target= "_blank" rel="external">Parte 5</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo006.html" target= "_blank" rel="external">Parte 6</a> - 
 Colocando uma imagem de fundo no seu site. 
 </p>
 
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo007.html"> Exercício 22-B</a> - Alinhamento Vertical</a>
-</p> 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank" rel="next"> Exercício 22-B</a> - Alinhamento Vertical</a>
+</p>
+
+<p>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela.html" target="_blank" rel="next"> Exercício 23 - Tabelas</a>
+</p>
