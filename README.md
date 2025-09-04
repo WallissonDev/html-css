@@ -33,6 +33,14 @@ Desafios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio009/index.html" target="_blank" rel="next">Desafio 009</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/desafio010/index.html" target="_blank" rel="next">Desafio 010</a></p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/projeto-cordel-moderno/cordel.html" target="_blank" rel="next">Desafio 011</a> - Aplicando fundo com efeito parallax</p>
+<p>Desafio 012 -
+<a href="https://wallissondev.github.io/html-css/exercicios/desafio011/tabela.html" target="_blank" rel="next"> Parte 1 </a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/desafio011/tabela02.html" target="_blank" rel="next"> Parte 2 </a> - Desafio das Tabelas
+</p>
+<p>
+<a href="https://wallissondev.github.io/html-css/exercicios/desafio013/tabela.html" target="_blank" rel="next"> Desafio Boletim</a>
+</p>
+
 <hr>
 Exercícios:
 <p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a></p>
@@ -97,6 +105,11 @@ Colocando uma imagem de fundo no seu site.
 <a href="https://wallissondev.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank" rel="next"> Exercício 22-B</a> - Alinhamento Vertical</a>
 </p>
 
-<p>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela.html" target="_blank" rel="next"> Exercício 23 - Tabelas</a>
+<p> Exercício 23 -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela.html" target="_blank" rel="next">Parte 1</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela02.html" target="_blank" rel="external">Parte 2 </a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela03.html" target="_blank" rel="external">Parte 3 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela04.html" target="_blank" rel="next">Parte 4 </a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela05.html" target="_blank" rel="next">Parte 5 </a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela06.html" target="_blank" rel="next">Parte 6 </a> -
+Trabalhando com Tabelas
 </p>
