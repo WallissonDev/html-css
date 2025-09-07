@@ -113,3 +113,12 @@ Colocando uma imagem de fundo no seu site.
 <a href="https://wallissondev.github.io/html-css/exercicios/ex023/tabela06.html" target="_blank" rel="next">Parte 6 </a> -
 Trabalhando com Tabelas
 </p>
+
+<p> Exercício 24 -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe001.html" target="_blank" rel="next"> Parte 1</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe002.html" target="_blank" rel="next"> Parte 2</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe003.html" target="_blank" rel="next"> Parte 3</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe004.html" target="_blank" rel="next"> Parte 4</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank" rel="next"> Parte 5</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe006.html" target="_blank" rel="next"> Parte 6</a> -
+Aprendendo a trabalhar com iframes e incorporar
