@@ -121,4 +121,4 @@ Trabalhando com Tabelas
 <a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe004.html" target="_blank" rel="next"> Parte 4</a> -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank" rel="next"> Parte 5</a> -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe006.html" target="_blank" rel="next"> Parte 6</a> -
-Aprendendo a trabalhar com iframes e incorporar
+Aprendendo a trabalhar com iframes
