@@ -8,6 +8,10 @@ Importante ressaltar que meus projetos maiores com a aplicação de tudo que est
 Acesse meus repositórios de cada projeto:
 
 <p>
+Projeto Pessoal Portifólio: <a href="https://github.com/WallissonDev/projeto-portifolio-simples" target="_blank" rel="next"> Clique Aqui! </a>
+</p>
+
+<p>
 Projeto Site Android: <a href="https://github.com/WallissonDev/projeto-android" target="_blank" rel="next">Clique Aqui!</a>
 </p>
 
@@ -16,7 +20,7 @@ Projeto Site Cordel Moderno: <a href="https://github.com/WallissonDev/projeto-co
 </p>
 
 <p>
-Projeto Pessoal Portifólio: <a href="https://github.com/WallissonDev/projeto-portifolio-simples" target="_blank" rel="next"> Clique Aqui! </a>
+Projeto iframe - Redes-Sociais <a href="https://github.com/WallissonDev/projeto-redes-sociais" target="_blank" rel="next"> Clique aqui! </a>
 </p>
 
 Abaixo os links pra visualizar todos os sites que criei enquanto praticava! Quanto mais abaixo, maior o número de conceitos que aprendi! Sendo exercícios a pratica isolada dos conceitos enquanto os desafios contém um aproveitamento melhor de tudo que aprendi de maneira unida. 
