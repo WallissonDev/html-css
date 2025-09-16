@@ -126,3 +126,12 @@ Trabalhando com Tabelas
 <a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank" rel="next"> Parte 5</a> -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex024/iframe006.html" target="_blank" rel="next"> Parte 6</a> -
 Aprendendo a trabalhar com iframes
+</p>
+
+<p> Exercício 25 -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form001.html" target="_blank" rel="next"> Parte 1</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form002.html" target="_blank" rel="next"> Parte 2</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form003.html" target="_blank" rel="next"> Parte 3</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form004.html" target="_blank" rel="next"> Parte 4</a> - 
+Exercícios de Formulário
+</p>
