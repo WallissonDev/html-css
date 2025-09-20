@@ -133,5 +133,11 @@ Aprendendo a trabalhar com iframes
 <a href="https://wallissondev.github.io/html-css/exercicios/ex025/form002.html" target="_blank" rel="next"> Parte 2</a> -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex025/form003.html" target="_blank" rel="next"> Parte 3</a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex025/form004.html" target="_blank" rel="next"> Parte 4</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form005.html" target="_blank" rel="next"> Parte 5</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form006.html" target="_blank" rel="next"> Parte 6</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form007.html" target="_blank" rel="next"> Parte 7</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form008.html" target="_blank" rel="next"> Parte 8</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form009.html" target="_blank" rel="next"> Parte 9</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex025/form010.html" target="_blank" rel="next"> Parte 10</a> - 
 Exercícios de Formulário
 </p>
