@@ -141,3 +141,12 @@ Aprendendo a trabalhar com iframes
 <a href="https://wallissondev.github.io/html-css/exercicios/ex025/form010.html" target="_blank" rel="next"> Parte 10</a> - 
 Exercícios de Formulário
 </p>
+
+<p> Exercício 26 -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq001/index.html" target="_blank" rel="next"> Parte 1</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq002/index.html" target="_blank" rel="next"> Parte 2</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq003/index.html" target="_blank" rel="next"> Parte 3</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq004/index.html" target="_blank" rel="next"> Parte 4</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq005/index.html" target="_blank" rel="next"> Parte 5</a> -
+Media Query / Media Queries
+</p>
