@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=/, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=key,person"/>
+    <title>Login</title>
+</head>
+<body>
+    <main>
+        <section id="campo-login">
+            <div class="imagem"></div>
+            <h1>Login</h1>
+            <p class="boasvindas">Seja bem-vindo(a) novamente. Faça login para acessar sua conta e poder fazer as configurações no seu ambiente.</p>
+            <form class="form" action="login.php" method="get" autocomplete="on">
+                <div id="login">
+                    <label for="ilogin" class="material-symbols-outlined">person</label>
+                    <input id="login" type="text" name="login" id="ilogin" required minlength="5" maxlength="16" autocomplete="username" size="21" placeholder="Digite seu Usuário">
+                </div>
+                <div id="senha">
+                    <label for="isenha" class="material-symbols-outlined">key</label>
+                    <input id="senha" type="password" name="senha" id="isenha" required minlegth="5" maxlength="16" size="20" autocomplete="new-password" placeholder="Digite sua Senha">
+                </div>
+                <div>
+                    <input id="logar" type="submit" value="Entrar">
+                </div>
+                <div>
+                    <input id="esqueci" type="submit" value="Esqueci a senha">
+                </div>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
