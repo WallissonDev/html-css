@@ -151,3 +151,31 @@ input#esqueci:hover{
     background-color: var(--cor2);
     color: white;
 }
+
+@media screen and (orientation: portrait) {
+    section#campo-login{
+        height: 96vh;
+    }
+
+    div#login{
+        height: 44px;
+    }
+    div#senha{
+        height: 44px;
+    }
+}
+
+@media screen and (orientation: landscape) {
+
+    section#campo-login{
+        height: 550px;
+    }
+
+    div#login{
+        height: 45px;
+    }
+    
+    div#senha {
+        height: 45px;
+    }
+}
