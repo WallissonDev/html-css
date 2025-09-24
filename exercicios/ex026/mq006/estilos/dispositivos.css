@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) and (max-width: 992px)  {
+    /* Tablet */
+
+:root{
+    --cor0: #317A86;
+    --cor1:#61727C;
+    --cor2: #465f5c;
+    --cor3: #5D8679;
+    --cor4: #418b88;
+    --cor5: #2b5d5b;
+}
+    
+body{
+    background-image: linear-gradient(to right, var(--cor0), var(--cor4), var(--cor5), var(--cor3));
+}
+
+h1{
+    text-align: left;
+    text-indent: 45px;
+}
+
+.boasvindas{
+    margin-right: 50%;
+    position: relative;
+    text-indent: 10px;
+}
+
+.imagem{
+    width: 43vw;
+    height: 400px;
+    position: absolute;
+    left: 53%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 0px;
+    box-shadow: 0px 4px 12px -8px;
+}
+
+section#campo-login{
+    position: relative;
+    width: 90vw;
+    height: 400px;
+}
+
+div#login{
+    display: block;
+    margin-left: 15px;
+    width: 42vw;
+}
+
+input#login{
+    width: 35vw;
+    height: 35px;
+}
+
+div#senha{
+    display: block;
+    margin-left: 15px;
+    width: 42vw;
+}
+
+input#senha{
+    width: 35vw;
+    height: 35px;
+}
+
+input#logar{
+
+    display: inline-block;
+    margin-left: 15px;
+    width: 42.5vw;
+}
+
+input#esqueci {
+    display: inline-block;
+    margin-left: 15px;
+    width: 42.5vw;
+}
+}
