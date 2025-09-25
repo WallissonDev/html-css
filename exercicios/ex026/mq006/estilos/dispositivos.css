@@ -47,7 +47,7 @@ section#campo-login{
 div#login{
     display: block;
     margin-left: 15px;
-    width: 42vw;
+    width: 44vw;
 }
 
 input#login{
@@ -58,7 +58,7 @@ input#login{
 div#senha{
     display: block;
     margin-left: 15px;
-    width: 42vw;
+    width: 44vw;
 }
 
 input#senha{

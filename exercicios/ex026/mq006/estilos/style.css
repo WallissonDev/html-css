@@ -95,6 +95,7 @@ section#campo-login{
 input#login{
     
     position: absolute;
+    padding-left: 10px;
     top: 15%;
     left: 15%;
     width: 60vw;
@@ -104,6 +105,7 @@ input#login{
 }
 input#senha{
     position: absolute;
+    padding-left: 10px;
     top: 15%;
     left: 15%;
     width: 60vw;
