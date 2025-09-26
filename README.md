@@ -42,8 +42,12 @@ Desafios:
 <a href="https://wallissondev.github.io/html-css/exercicios/desafio011/tabela02.html" target="_blank" rel="next"> Parte 2 </a> - Desafio das Tabelas
 </p>
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/desafio013/tabela.html" target="_blank" rel="next"> Desafio013 </a> - Boletim em Tabela
+<a href="https://wallissondev.github.io/html-css/exercicios/desafio013/tabela.html" target="_blank" rel="next"> Desafio 013 </a> - Boletim em Tabela
 </p>
+<p>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq006/index.html" target="_blank" rel="next"> Desafio 014 </a> - Página de Login com Media Queries
+</p>
+
 
 <hr>
 Exercícios:
