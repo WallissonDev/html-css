@@ -154,3 +154,9 @@ Exercícios de Formulário
 Media Query / Media Queries
 </p>
 
+<p> Exercício 27 -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex001/index.html" target="_blank" rel="next"> Parte 1</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex002/index.html" target="_blank" rel="next"> Parte 2 - 
+Iniciando em Flex-Box
+</p>
+
