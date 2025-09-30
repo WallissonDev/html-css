@@ -156,7 +156,10 @@ Media Query / Media Queries
 
 <p> Exercício 27 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex001/index.html" target="_blank" rel="next"> Parte 1</a> -
-<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex002/index.html" target="_blank" rel="next"> Parte 2 - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex002/index.html" target="_blank" rel="next"> Parte 2</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex003/index.html" target="_blank" rel="next"> Parte 3</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex004/index.html" target="_blank" rel="next"> Parte 4</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex005/index.html" target="_blank" rel="next"> Parte 5</a> - 
 Iniciando em Flex-Box
 </p>
 
