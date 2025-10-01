@@ -160,6 +160,10 @@ Media Query / Media Queries
 <a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex003/index.html" target="_blank" rel="next"> Parte 3</a> -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex004/index.html" target="_blank" rel="next"> Parte 4</a> -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex005/index.html" target="_blank" rel="next"> Parte 5</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex006/index.html" target="_blank" rel="next"> Parte 6</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex007/index.html" target="_blank" rel="next"> Parte 7</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex008/index.html" target="_blank" rel="next"> Parte 8</a> -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex009/index.html" target="_blank" rel="next"> Parte 9</a> -
 Iniciando em Flex-Box
 </p>
 
