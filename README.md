@@ -171,5 +171,5 @@ Iniciando em Flex-Box
 </p>
 
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex027/flex001/index.html" target="_blank" rel="next">Exercício 28</a> - Menu Responsivo com Flexbox
+<a href="https://wallissondev.github.io/html-css/exercicios/flex013-menuflexbox/index.html" target="_blank" rel="next">Exercício 28</a> - Menu Responsivo com Flexbox
 </p>
