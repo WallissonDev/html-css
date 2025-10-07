@@ -173,3 +173,7 @@ Iniciando em Flex-Box
 <p>
 <a href="https://wallissondev.github.io/html-css/exercicios/flex013-menuflexbox/index.html" target="_blank" rel="next">Exercício 28</a> - Menu Responsivo com Flexbox
 </p>
+
+<p>
+<a href="https://wallissondev.github.io/html-css/exercicios/flex015/index.html" target="_blank" rel="next">Exercício 29</a> - Prática Flexbox
+</p>
