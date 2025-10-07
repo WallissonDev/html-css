@@ -48,7 +48,7 @@ Desafios:
 <a href="https://wallissondev.github.io/html-css/exercicios/ex026/mq006/index.html" target="_blank" rel="next"> Desafio 014 </a> - Página de Login com Media Queries
 </p>
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/desafio014/index.html" target="_blank" rel="next"> Desafio 015 </a> - Menu Responsivo Flexbox
+<a href="https://wallissondev.github.io/html-css/exercicios/flex013-menuflexbox/index.html" target="_blank" rel="next"> Desafio 015 </a> - Menu Responsivo Flexbox
 </p>
 
 
