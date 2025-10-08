@@ -26,16 +26,16 @@ Projeto iframe - Redes-Sociais <a href="https://github.com/WallissonDev/projeto-
 Abaixo os links pra visualizar todos os sites que criei enquanto praticava! Quanto mais abaixo, maior o número de conceitos que aprendi! Sendo exercícios a pratica isolada dos conceitos enquanto os desafios contém um aproveitamento melhor de tudo que aprendi de maneira unida. 
 <hr>
 Desafios:
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio001/index.html" target="_blank" rel="next">Desafio 001</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio002/index.html" target="_blank" rel="next">Desafio 002</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio003/index.html" target="_blank" rel="next">Desafio 003</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio004/index.html" target="_blank" rel="next">Desafio 004</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio005/index.html" target="_blank" rel="next">Desafio 005</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio006/index.html" target="_blank" rel="next">Desafio 006</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio007/index.html" target="_blank" rel="next">Desafio 007</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio008/index.html" target="_blank" rel="next">Desafio 008</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio009/index.html" target="_blank" rel="next">Desafio 009</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio010/index.html" target="_blank" rel="next">Desafio 010</a></p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio001/index.html" target="_blank" rel="next">Desafio 001</a> - Tags Básicas</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio002/index.html" target="_blank" rel="next">Desafio 002</a> - Inserir Imagens</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio003/index.html" target="_blank" rel="next">Desafio 003</a> - Organizando Imagens em um site </p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio004/index.html" target="_blank" rel="next">Desafio 004</a> - Usando Emojis</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio005/index.html" target="_blank" rel="next">Desafio 005</a> - Profile com links</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio006/index.html" target="_blank" rel="next">Desafio 006</a> - Trabalhando com Tags e Listas</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio007/index.html" target="_blank" rel="next">Desafio 007</a> - Imagem Flexível</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio008/index.html" target="_blank" rel="next">Desafio 008</a> - Trabalhando com Redirecionamento</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio009/index.html" target="_blank" rel="next">Desafio 009</a> - Miniaturas e Redirecionamento </p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/desafio010/index.html" target="_blank" rel="next">Desafio 010</a> - Um site sobre a história do Android</p>
 <p><a href="https://wallissondev.github.io/html-css/exercicios/projeto-cordel-moderno/cordel.html" target="_blank" rel="next">Desafio 011</a> - Aplicando fundo com efeito parallax</p>
 <p>Desafio 012 -
 <a href="https://wallissondev.github.io/html-css/exercicios/desafio011/tabela.html" target="_blank" rel="next"> Parte 1 </a> -
@@ -54,30 +54,29 @@ Desafios:
 
 <hr>
 Exercícios:
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex002/index.html" target="_blank" rel="next">Exercício 002</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex003/index.html" target="_blank" rel="next">Exercício 003</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex004/index.html" target="_blank" rel="next">Exercício 004</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex006/index.html" target="_blank" rel="next">Exercício 006</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex007/index.html" target="_blank" rel="next">Exercício 007</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex008/index.html" target="_blank" rel="next">Exercício 008</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex008b/index.html" target="_blank" rel="next">Exercício 008b</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex009/index.html" target="_blank" rel="next">Exercício 009</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex010/index.html" target="_blank" rel="next">Exercício 010</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex011/index.html" target="_blank" rel="next">Exercício 011</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex012/index.html" target="_blank" rel="next">Exercício 012</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex013/index.html" target="_blank" rel="next">Exercício 013</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex014/index.html" target="_blank" rel="next">Exercício 014</a></p>
-<p><a href="https://wallissondev.github.io/html-css/exercicios/ex015/index.html" target="_blank" rel="next">Exercício 015</a></p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex001/index.html" target="_blank" rel="next">Exercício 001</a> - Tags Básicas</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex002/index.html" target="_blank" rel="next">Exercício 002</a> - Simbolos e Emojis</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex003/index.html" target="_blank" rel="next">Exercício 003</a> - Colocando Imagens em um site</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex004/index.html" target="_blank" rel="next">Exercício 004</a> - Colocando Favicon</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex006/index.html" target="_blank" rel="next">Exercício 006</a> - Tags de títulos e hiearquias</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex008/index.html" target="_blank" rel="next">Exercício 008</a> - Tags semânticas de marcação</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex008b/index.html" target="_blank" rel="next">Exercício 008b</a> - Tags e formatações específicas</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex009/index.html" target="_blank" rel="next">Exercício 009</a> - Tags de Listas</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex010/index.html" target="_blank" rel="next">Exercício 010</a> - Links Externo </p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex011/index.html" target="_blank" rel="next">Exercício 011</a> - Reproduzindo audio e colocando imagem flexível </p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex012/index.html" target="_blank" rel="next">Exercício 012</a> - Videos locais e externos</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex013/index.html" target="_blank" rel="next">Exercício 013</a> - Cores e fontes em CSS</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex014/index.html" target="_blank" rel="next">Exercício 014</a> - Formatação e cores específicas</p>
+<p><a href="https://wallissondev.github.io/html-css/exercicios/ex015/index.html" target="_blank" rel="next">Exercício 015</a> - Cores e navegação entre páginas</p>
 <p>
 
 Exercício 016 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex016/cor01.html" target="_blank" rel="next"> Parte 1 </a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex016/cor02.html" target="_blank" rel="next"> Parte 2 </a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex016/cor03.html" target="_blank" rel="next"> Parte 3 </a>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex016/cor03.html" target="_blank" rel="next"> Parte 3 </a> - Colocando fontes externas e locais
 </p>
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex017/fonte01.html" target="_blank" rel="next">Exercício 017</a>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex017/fonte01.html" target="_blank" rel="next">Exercício 017</a> - Trabalhando com fontes
 </p>
 
 <p>
@@ -85,21 +84,21 @@ Exercício 018 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex018/fonte01.html" target="_blank" rel="next"> Parte 1 </a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex018/fonte02.html" target="_blank" rel="next"> Parte 2 </a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex018/fonte002.html" target="_blank" rel="next"> Parte 3 </a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex018/fonte03.html" target="_blank" rel="next"> Parte 4</a>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex018/fonte03.html" target="_blank" rel="next"> Parte 4</a> - Alinhamento e fontes
 </p>
 
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank" rel="next">Exercício 019</a>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex019/seletor01.html" target="_blank" rel="next">Exercício 019</a> - Background Color / Color
 </p>
 
 <p>
 Exercício 20 - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex020/hover.html" target="_blank" rel="next">Parte 1 </a> - 
 <a href="https://wallissondev.github.io/html-css/exercicios/ex020/links.html" target="_blank" rel="next">Parte 2 </a> - 
-<a href="https://wallissondev.github.io/html-css/exercicios/ex020/pseudoclass.html" target="_blank" rel="next">Parte 3</a>
+<a href="https://wallissondev.github.io/html-css/exercicios/ex020/pseudoclass.html" target="_blank" rel="next">Parte 3</a> - Hover, links com cores e divs
 </p>
 
-<p>Exercício 21 - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" rel="next">Parte 3</a></p>
+<p>Exercício 21 - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" rel="next">Parte 3</a></p> - Box Level, inline level e bordas com imagens
 
 <p>
 Exercício 22 - 
