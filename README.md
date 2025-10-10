@@ -98,7 +98,7 @@ Exercício 20 -
 <a href="https://wallissondev.github.io/html-css/exercicios/ex020/pseudoclass.html" target="_blank" rel="next">Parte 3</a> - Hover, links com cores e divs
 </p>
 
-<p>Exercício 21 - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" rel="next">Parte 3</a></p> - Box Level, inline level e bordas com imagens
+<p>Exercício 21 - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank" rel="next">Parte 1 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank" rel="next">Parte 2 </a> - <a href="https://wallissondev.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank" rel="next">Parte 3</a></p> - Box Level, inline level e bordas com imagens 
 
 <p>
 Exercício 22 - 
