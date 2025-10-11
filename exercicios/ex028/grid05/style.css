@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.container{
+    display: grid;
+    grid-template: repeat(3, 100px) / repeat(4, 1fr);
+}
+
+.caixa1{
+    grid-row: 1 / span 1;
+    grid-column: 1 / span 4;
+    /*Podemos só utilizar diretamente a posição final da grid-line como no caixa 3 - sem precisar usar span*/
+
+    background-color: lightblue;
+    border: 2px dashed black;
+
+    
+}
+
+.caixa2{
+    grid-row: 2 / span 2;
+    grid-column: 1 / span 2;
+    /*Podemos só utilizar diretamente a posição final da grid-line como no caixa 3 - sem precisar usar span*/
+
+    background-color: lightgreen;
+    border: 2px dashed rgb(0, 0, 0);
+}
+
+.caixa3{
+    grid-row: 2/4;
+    grid-column: 3/-1;
+
+    background-color: lightpink;
+    border: 2px dashed black;
+
+}

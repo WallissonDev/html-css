@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.container{
+    display: grid;
+    grid-template: repeat(3, 100px) / repeat(4, 1fr);
+}
+
+.caixa1{
+    grid-area: 1 / 1 / 2 / 5;
+    /*Podemos só utilizar diretamente a posição final da grid-line como no caixa 3 - sem precisar usar span*/
+
+    background-color: lightblue;
+    border: 2px dashed black;
+
+    
+}
+
+.caixa2{
+    grid-area: 2 / 1 / 4 / 3;
+    /*Podemos só utilizar diretamente a posição final da grid-line como no caixa 3 - sem precisar usar span*/
+
+    background-color: lightgreen;
+    border: 2px dashed rgb(0, 0, 0);
+}
+
+.caixa3{
+    grid-area: 2 / 3 / 4 / -1;
+
+    background-color: lightpink;
+    border: 2px dashed black;
+
+}

@@ -178,5 +178,11 @@ Iniciando em Flex-Box
 </p>
 
 <p>
-<a href="https://wallissondev.github.io/html-css/exercicios/ex028/index.html" target="_blank" rel="next">Exercício 30</a> - Iniciando no Grid Layout
+Exercício 30 -
+<a href="https://wallissondev.github.io/html-css/exercicios/ex028/grid01/index.html" target="_blank" rel="next">Parte 1</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex028/grid02/index.html" target="_blank" rel="next">Parte 2</a> - 
+<a href="https://wallissondev.github.io/html-css/exercicios/ex028/grid03/index.html" target="_blank" rel="next">Parte 3</a> - 
+Iniciando no Grid Layout
 </p>
+
+
